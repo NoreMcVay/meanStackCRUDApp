@@ -1,8 +1,8 @@
 # meanStackCRUDApp
 
-a secure MEAN app including user authentication and authorisation as well as a file uploader with pagination 
+A secure MEAN app including user authentication and authorisation as well as a file uploader with pagination.
 
-with this app you can:
+With this app you can:
 
 post data and images from the browser into MongoDB and a backend images folder
 
